@@ -1,2 +1,2 @@
-# partbot-trinirepuestos
-PartBot para TRINIREPUESTOS
+# TRINIREPUESTOS C.A.
+PartBot - TRINIREPUESTOS C.A.
